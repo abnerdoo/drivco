@@ -22,3 +22,4 @@ composer.lock
 /storage/api-docs
 temp
 /public/debug_device_log
+/composer.lock
