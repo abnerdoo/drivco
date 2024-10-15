@@ -23,3 +23,4 @@ composer.lock
 temp
 /public/debug_device_log
 /composer.lock
+/package-lock.json
